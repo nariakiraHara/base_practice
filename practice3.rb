@@ -1,0 +1,1 @@
+objects = ["taiga", 2, {"harada"=>"taiga"}]

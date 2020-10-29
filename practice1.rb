@@ -1,0 +1,2 @@
+def fight(num)
+end
