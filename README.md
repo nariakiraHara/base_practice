@@ -35,3 +35,16 @@ fightメソッドで判定する条件を
 想定される結果
 ---
 ![スクリーンショット 2020-10-29 23 59 35](https://user-images.githubusercontent.com/35086740/97591292-cfb76b00-1a42-11eb-9dce-3b39976caf43.png)
+
+# 問題3
+下記配列内の要素のクラスを判定するプログラムを作成してください。
+```
+objects = ["taiga", 2, {"harada"=>"taiga"}]
+```
+「Stringの場合は"これはStringです"」
+「Integerの場合は"これはIntegerです"」
+「Hashの場合は"これはHashです"」
+
+想定される結果
+---
+![スクリーンショット 2020-10-30 0 05 36](https://user-images.githubusercontent.com/35086740/97592109-a64b0f00-1a43-11eb-8c2d-6b2caedb10a8.png)
